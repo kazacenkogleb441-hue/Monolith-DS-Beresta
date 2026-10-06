@@ -4,8 +4,13 @@ meta:
   engineVersion: 277.0.0
   forkId: ""
   forkVersion: ""
+<<<<<<< HEAD:Resources/Maps/_LuaM/Shuttles/CC/PurgaMk-2.yml
   time: 09/14/2026 16:31:21
   entityCount: 1258
+=======
+  time: 08/29/2026 12:56:14
+  entityCount: 901
+>>>>>>> 83d74c426cfb85a5668c77ebed8c9353b09ec141:Resources/Maps/_LuaM/Shuttles/CC/PurgaMk2.yml
 maps: []
 grids:
 - 1
@@ -7839,6 +7844,7 @@ entities:
     - type: Transform
       pos: -7.5,-1.5
       parent: 1
+<<<<<<< HEAD:Resources/Maps/_LuaM/Shuttles/CC/PurgaMk-2.yml
 - proto: WeaponCapacitorRecharger
   entities:
   - uid: 1231
@@ -7858,6 +7864,8 @@ entities:
     - type: Transform
       pos: 6.597449,0.0032148361
       parent: 1
+=======
+>>>>>>> 83d74c426cfb85a5668c77ebed8c9353b09ec141:Resources/Maps/_LuaM/Shuttles/CC/PurgaMk2.yml
 - proto: WeaponCaseLongEnforcerRegistered
   entities:
   - uid: 1234
