@@ -9,8 +9,12 @@ meta:
   entityCount: 1258
 =======
   time: 08/29/2026 12:56:14
+<<<<<<< HEAD:Resources/Maps/_LuaM/Shuttles/CC/PurgaMk-2.yml
   entityCount: 901
 >>>>>>> 83d74c426cfb85a5668c77ebed8c9353b09ec141:Resources/Maps/_LuaM/Shuttles/CC/PurgaMk2.yml
+=======
+  entityCount: 903
+>>>>>>> 58f3311014f07a763951c1fd541898f0b47011f8:Resources/Maps/_LuaM/Shuttles/CC/PurgaMk2.yml
 maps: []
 grids:
 - 1
@@ -3958,6 +3962,20 @@ entities:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -1.5,-3.5
+      parent: 1
+- proto: HardpointUniversalSuperheavy
+  entities:
+  - uid: 904
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 6.5,5.5
+      parent: 1
+  - uid: 905
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -5.5,5.5
       parent: 1
 - proto: LargeAPC
   entities:
